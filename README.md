@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rx4n
 
-<!--
-**Rian-Batista-Rx4n/Rian-Batista-Rx4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor FullStack Júnior focado em Códigos, Soluções Simples e Café.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Principais habilidades:
+- Python 3, JavaScript, HTML5, CSS3
+- Flask, Termux, Linux (Mint e Arch)
+- Git & GitHub
+
+## 🚀 Projeto em destaque:
+[Gray Wolf System (v0.8.2)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
+
+---
+
+## 📚 Principais Formações/Cursos:
+- Python 3
+- JavaScript
+- Segurança da Informação
+- MySQL
+- Hardware
+- IPv4
+- Redes de Computadores
+- Git & GitHub
+- Excel
+- Power BI
+
+---
+
+### 📫 Contato: rx4n.rx4n@gmail.com
