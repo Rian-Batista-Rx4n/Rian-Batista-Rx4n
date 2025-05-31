@@ -23,3 +23,5 @@
 - Power BI
 ---
 ### 📫 Contact: rx4n.rx4n@gmail.com
+## or see more in my page:
+### https://rian-batista-rx4n.github.io/rian-batista/
