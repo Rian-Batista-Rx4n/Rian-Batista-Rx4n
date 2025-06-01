@@ -8,7 +8,7 @@
 - Git & GitHub
 
 ## 🚀 Highlight Project:
-🐺 [Gray Wolf System (v0.9.0)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
+🐺 [Gray Wolf System (v0.9.1)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
 ---
 ## 📚 Key Courses & Training:
 - Python 3
@@ -23,5 +23,5 @@
 - Power BI
 ---
 ### 📫 Contact: rx4n.rx4n@gmail.com
-## or see more in my page:
+## or see more on my page:
 ### https://rian-batista-rx4n.github.io/rian-batista/
