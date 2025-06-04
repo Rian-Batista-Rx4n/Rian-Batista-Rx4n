@@ -8,11 +8,12 @@
 - Git & GitHub
 
 ## 🚀 Highlight Project:
-🐺 [Gray Wolf System (v0.9.1)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
+🐺 [Gray Wolf System (v0.9.2)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
 ---
 ## 📚 Key Courses & Training:
 - Python 3
 - JavaScript
+- Linux
 - Information Security
 - MySQL
 - Hardware
