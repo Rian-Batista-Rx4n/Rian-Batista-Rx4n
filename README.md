@@ -7,7 +7,7 @@
 - Flask, Termux, Linux (Mint & Arch)
 - Git & GitHub
 
-## 🚀 Highlight Project: 🐺 [Gray Wolf System (v0.9.3)](https://github.com/Rian-Batista-Rx4n/web-files-manager-graywolfsystem)
+## 🚀 Highlight Project: 🐺 [Gray Wolf System (v0.9.3)](https://github.com/Rian-Batista-Rx4n/GWS)
 ---
 ## 📚 Key Courses & Training:
 - Python 3
