@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Rian Batista (aka Rx4n)**  
+# 👋 Hey there, I'm **Rian Batista**  
 
 💻 **Junior FullStack Developer** passionate about technology, creative coding, and continuous learning.  
 ☕ Code, curiosity, and coffee keep my ideas alive.
@@ -51,6 +51,7 @@ When I’m not coding, you’ll probably find me:
 - 📧 **Email:** [rx4n.rx4n@gmail.com](mailto:rx4n.rx4n@gmail.com)  
 - 🌐 **Portfolio:** [rian-batista-rx4n.github.io/rian-batista](https://rian-batista-rx4n.github.io/rian-batista/)  
 - 🧑‍💻 **GitHub:** [github.com/Rian-Batista-Rx4n](https://github.com/Rian-Batista-Rx4n)  
+- 💼 **LinkedIn:** [linkedin.com/in/rian-batista](https://www.linkedin.com/in/rian-batista/)  
 
 ---
 
