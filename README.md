@@ -5,17 +5,17 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-I’m **Rian Batista**, also known as **Rx4n**, a developer who loves blending creativity, technology, and design.  
-My main focus is on **Python (Flask)**, **JavaScript**, and building **personal systems** that combine functionality with style — like my retro-inspired projects.  
+I'm **Rian Batista**, also known as **Rx4n**, a developer who loves combining creativity, technology, and design.
+My main focus is on back-end development and creating **personal systems** that facilitate and create solutions, whether visual (front-end) or automated/logical (back-end).
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python 3, JavaScript, HTML5, CSS3  
-- **Frameworks & Tools:** Flask, Termux  
+- **Languages:** Python 3, JavaScript, HTML5, CSS3, Bash, Dam, M
+- **Frameworks & Tools:** Flask, Termux, Excel, PowerBI
 - **OS & Environment:** Arch Linux (Daily Driver 🐧)  
 - **Version Control:** Git & GitHub  
 
@@ -40,9 +40,10 @@ A nostalgic portfolio project that recreates the **Windows XP** interface using 
 ## 🎮 Beyond Code  
 
 When I’m not coding, you’ll probably find me:  
-- Exploring **cybersecurity** and **Linux customization**  
-- Playing **retro and indie games**  
-- Studying **operating systems and low-level computing**
+- Exploring **cybersecurity** and **Linux**
+- Playing **retro and indie games**
+- Probably watching some **anime**
+- Sometimes I **draw**
 
 ---
 
@@ -51,7 +52,8 @@ When I’m not coding, you’ll probably find me:
 - 📧 **Email:** [rx4n.rx4n@gmail.com](mailto:rx4n.rx4n@gmail.com)  
 - 🌐 **Portfolio:** [rian-batista-rx4n.github.io/rian-batista](https://rian-batista-rx4n.github.io/rian-batista/)  
 - 🧑‍💻 **GitHub:** [github.com/Rian-Batista-Rx4n](https://github.com/Rian-Batista-Rx4n)  
-- 💼 **LinkedIn:** [linkedin.com/in/rian-batista](https://www.linkedin.com/in/rian-batista/)  
+- 💼 **LinkedIn:** [linkedin.com/in/rian-batista](https://www.linkedin.com/in/rian-batista/)
+- 📸 **Instagram:** [https://www.instagram.com/rx4n.rx4n/](https://www.instagram.com/rx4n.rx4n/)
 
 ---
 
