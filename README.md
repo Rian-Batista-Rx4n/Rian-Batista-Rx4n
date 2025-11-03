@@ -14,7 +14,7 @@ My main focus is on back-end development and creating **personal systems** that 
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python 3, JavaScript, HTML5, CSS3, Bash, Dam, M
+- **Languages:** Python3, JavaScript, HTML5, CSS3, Bash, Dax, M, MySQL
 - **Frameworks & Tools:** Flask, Termux, Excel, PowerBI
 - **OS & Environment:** Arch Linux (Daily Driver 🐧)  
 - **Version Control:** Git & GitHub  
