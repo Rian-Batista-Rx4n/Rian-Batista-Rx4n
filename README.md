@@ -37,6 +37,13 @@ A nostalgic portfolio project that recreates the **Windows XP** interface using 
 
 ---
 
+## 🎮 Minigames Project
+
+🧠 [**Mind Games**](https://rian-batista-rx4n.github.io/MindGames/)
+MindGames is a free browser-based project made to sharpen your memory, focus and reflexes through simple yet addictive mini games. 
+
+---
+
 ## 🎮 Beyond Code  
 
 When I’m not coding, you’ll probably find me:  
